@@ -27,7 +27,7 @@
 ## 🧑‍💻 作者与原始项目致谢
 
 - 原作者: **Shino <Synced> - Kronos**
-- 修改与维护: @YourNameHere
+- 修改与维护: EverLook 坚韧的风
 - 基于 DPSMate 插件修改增强
 
 ## 📜 LICENSE

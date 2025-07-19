@@ -13,8 +13,8 @@
 ## 📂 安装方法
 
 1. 下载本项目为 ZIP 压缩包；
-2. 解压后放入 `World of Warcraft\Interface\AddOns\DPSMate` 目录；
-3. 登录游戏，使用 `/dpsmate` 命令启动界面。
+2. 解压后放入 `World of Warcraft\Interface\AddOns` 目录；
+
 
 ## 🧱 模块总览
 
